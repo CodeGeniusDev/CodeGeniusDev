@@ -1,0 +1,43 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+  background-color: #1e1e1e; /* Dark grey background */
+  overflow: hidden;
+  font-family: "Arial", sans-serif;
+}
+
+#text-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  z-index: 10; /* Still above the canvas */
+  pointer-events: none;
+}
+
+#text-overlay h1 {
+  font-size: 6vw;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0;
+  position: relative;
+}
+
+#text-overlay h1 span.highlight {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 0 10px;
+  border-radius: 5px;
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+}
