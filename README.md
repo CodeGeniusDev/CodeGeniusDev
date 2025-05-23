@@ -65,11 +65,11 @@
 
 <h3 align="left">🚀 Top Projects:</h3>
 
-- 🔹 [GitHub Coder](https://githubcoder.netlify.app/)
-- 🔹 [True Focus](https://truefocus.netlify.app/)
+- 🔹 [GitHub viewer](https://githubsee.netlify.app/)
+- 🔹 [Solar Website](https://jesolar.netlify.app/)
 - 🔹 [WealthX](https://wealthx.netlify.app/)
 - 🔹 [Portfolio Vercel](https://portfolio-3-mu-green.vercel.app/)
-- 🔹 [Scripters App](https://scripters-app.netlify.app/)
+- 🔹 [Quiz App](https://scripters-app.netlify.app/)
 - 🔹 [Main Portfolio](https://portfolio.triplealpha.blog/)
 
 ---
