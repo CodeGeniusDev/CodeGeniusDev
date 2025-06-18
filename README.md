@@ -18,6 +18,9 @@
 
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
+### 🔗 Check all my important links here  
+[My Linktree](https://linktr.ee/CodeGenius.Dev)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y71GGSPU)
 
 <p align="left">
