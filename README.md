@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 About Me
-- Building tools like **myScheme**—AI-powered portals and user-focused apps
-- Passionate about UI/UX, Three.js visuals, and performance-first experiences
+Creative Full-Stack Developer & UI/UX Designer, expert in front-end and learning backend to build complete modern web solutions.
 
 ---
 
