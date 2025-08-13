@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm CodeGenius (Abdullah Abbad)</h1>
+<h1 align="center">👋 Hey, I'm Abdullah Abbad - <a href="https://www.instagram.com/codegenius.dev">CodeGenius.Dev</a></h1>
 <p align="center">
   Full-Stack Web Developer & UI/UX Designer  
   Crafting polished web apps using React, Next.js & Tailwind CSS  
