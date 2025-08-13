@@ -25,9 +25,7 @@ Creative Full-Stack Developer & UI/UX Designer, expert in front-end and learning
 ---
 
 ## 🛠Skills & Tools
-React · Next.js · TypeScript · Tailwind CSS
-Python · Redis · AI & Prompt Logic · Three.js
-Git · pnpm · Firebase · Figma · VS Code
+React · Next.js · TypeScript · Tailwind CSS · Python · Redis · AI & Prompt Logic · Three.js · Git · pnpm · Firebase · Figma · VS Code
 
 yaml
 Copy
