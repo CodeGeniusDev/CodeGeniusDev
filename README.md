@@ -11,25 +11,8 @@ Creative Full-Stack Developer & UI/UX Designer, expert in front-end and learning
 
 ---
 
-## Featured Projects
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| **[myScheme](https://my-scheme.netlify.app)** | Next.js, MongoDb, Tailwind, AI | Discover and add schemes |
-| **[JinnahXpert Solar](https://jx-solar.netlify.app)** | Next.js, Tailwind, Shadcn UI, AI | JX Solar – A modern, responsive site offering solar panel solutions and green energy services. |
-| **[WealthX](https://github.com/CodeGeniusDev/WealthX)** | React, Vite, TypeScript | Expense tracker with real-time charts |
-| **[Scripters App](https://github.com/CodeGeniusDev/Scripters-app)** | React, Tailwind | Interactive quiz platform with scoring |
-| **[Githubsee](https://github.com/CodeGeniusDev/Githubsee)** | React, GitHub API | Profile insights: languages, commits & stars |
-| **[Python WiFi Password Checker](https://github.com/CodeGeniusDev/python-wifi-password-checker)** | Python | CLI tool to reveal saved Wi-Fi credentials (Windows) |
-
----
-
 ## 🛠Skills & Tools
 React · Next.js · TypeScript · Tailwind CSS · Python · Redis · AI & Prompt Logic · Three.js · Git · pnpm · Firebase · Figma · VS Code
-
-yaml
-Copy
-Edit
 
 ---
 
