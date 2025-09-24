@@ -17,7 +17,7 @@ React · Next.js · TypeScript · Tailwind CSS · Python · Redis · AI & Prompt
 ---
 
 ## Connect
-- Website: [portfolio.triplealpha.blog](https://portfolio.triplealpha.blog)  
+- Website: [abdullahabbad.netlify.app](https://abdullahabbad.netlify.app)  
 - Email: codegenius.inc@gmal.com
 
 ---
